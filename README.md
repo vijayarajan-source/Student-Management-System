@@ -1,2 +1,2 @@
-# Student-Management-System
-Python Student Management System using OOP and JSON
+A simple and professional Student Management System built using Python, applying Object-Oriented Programming (OOP) and File Handling concepts.
+This project helps manage student records such as adding, viewing, searching, and deleting data.
